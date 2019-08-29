@@ -8,10 +8,6 @@ namespace bhaskarprogram
 {
    public class Example
     {
-        public int Add(int a, int b)
-        {
-            int c = a + b;
-            return c;
-        }
+       //branch1 is created
     }
 }
